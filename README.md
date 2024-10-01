@@ -73,20 +73,27 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 <!-- OUTUBRO:START -->
 
 - 01: [🛡️ OWASP BH apresenta: Transformando Sua Pipeline CI com Segurança Proativa](https://www.meetup.com/owasp-belo-horizonte-chapter/events/303372739/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) ![online]
+- 01, 08, 15 e 22: [Microsoft Reactor apresenta: Certificação GitHub Foundations](https://aka.ms/brasil/githubfoundations) ![online]
 - 03 e 04: [Staff+ Conference_BR](https://staff.escolaforja.com.br/) ![online]
 - 05: [Recruta Tech](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
+- 07 a 11: [Jornada MS Skills - Administração do Copilot for Microsoft 365](https://aka.ms/JornadaMSskills)- _SãoPaulo/SP_ ![híbrido]
 - 08, 09 e 10: [Futurecom](https://www.futurecom.com.br/pt/home.html) - _São Paulo/SP_ ![presencial]
 - 09, 10, 11, 12 e 13: [Campus Party Amazônia 2024](https://brasil.campus-party.org/cpamazonia2/ingressos/) - _Manaus/AM_ ![híbrido]
 - 14, 15, 16 e 17: [XXXIX Simpósio Brasileiro de Banco de Dados (SBBD 2024)](https://sbbd.org.br/2024/) - _Florianópolis/SC_ ![presencial]
+- 14 a 18: [PowerAI365 - 2ª Edição](https://aka.ms/PowerAI365/2Edicao) ![online]
 - 16, 17, 18, 19, 20 e 21: [Python Brasil](https://2024.pythonbrasil.org.br/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 17, 18 e 19: [IX Escola Regional de Informática do Espírito Santo - ERI-ES 2024](https://eries.sbc.org.br/) - _Vitória/ES_ ![presencial]
 - 18 e 19: [UXConf BR 2024](https://www.uxconf.com.br/) - _São Paulo/SP_ ![presencial]
 - 19: [Front in Sampa](https://evento.frontinsampa.com.br/) - _São Paulo/SP_ ![híbrido]
 - 19: [Portera Day](https://www.sympla.com.br/evento/portera-day/2617101) - _Goiânia/GO_ ![presencial]
+- 21: [Microsoft Reactor apresenta: Lançamento da Imagine Cup 2025, a competição estudantil global da Microsoft](https://aka.ms/MicrosoftStudentInnovatorPT) ![online]
 - 23 e 24: [TDC Summit IA Brasília](https://thedevconf.com/tdc/2024/summit-brasilia/) - _Brasília/DF_ ![híbrido]
+- 24: [Azure OpenAI e Azure AI Search (Python)](https://aka.ms/MicrosoftStudentInnovatorPT) ![online]
+- 25: [Certificaçào Microsoft - AZ-204: Azure Developer Associate pt1](https://aka.ms/CertificacaoAZ204) ![online]
 - 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
 - 29 e 30: [LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
 - 30: [MongoDB.local São Paulo](https://www.mongodb.com/pt-br/events/mongodb-local/sao-paulo#:~:text=local%3F-,MongoDB.,happy%20hour%20e%20muito%20mais) - _São Paulo/SP_ ![presencial]
+- 30: [Encontro Mana Jobs A.I. - Mulheres na Tecnologia](https://aka.ms/EncontroManaJobsAI/2024) - _SãoPaulo/SP_ ![híbrido]
 - 31: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
 <!-- OUTUBRO:END -->
 
@@ -94,8 +101,10 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 
 <!-- NOVEMBRO:START -->
 
+- 01: [Certificaçào Microsoft - AZ-204: Azure Developer Associate pt2](https://aka.ms/CertificacaoAZ204) ![online]
 - 02 e 03: [GambiConf 2024](https://gambiconf.dev/) - _São Paulo/SP_ ![presencial]
 - 04, 05, 06, 07 e 08: [XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)](https://cbie.sbc.org.br/2024/) - _Rio de Janeiro/RJ_ ![presencial]
+- 05: [GitHub Copilot Adventures](https://aka.ms/MicrosoftStudentInnovatorPT) ![online]
 - 05 e 06: [DCD>Connect | São Paulo](https://www.datacenterdynamics.com/br/dcd-connect/dcdconnect-sao-paulo/2024/) - _São Paulo/SP_ ![presencial]
 - 06, 07 e 08: [WVC 2024 - XIX Workshop de Visão Computacional](https://wvc2024.ufv.br/) - _Rio Paranaíba/MG_ ![presencial]
 - 07 e 08: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
